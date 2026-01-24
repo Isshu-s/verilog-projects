@@ -1,6 +1,6 @@
 # Project 12: 4-bit Binary Counter
 
-**Completed:** January 24, 2026
+**Completed:** January 24,2026
 
 **🎉 40% COMPLETE! Almost halfway through the 30-day challenge!**
 
